@@ -55,3 +55,13 @@ Kali Linux (Wazuh Agent / Attack Simulation)
              v
 Ubuntu Server (Wazuh Manager + Suricata IDS)
 ```
+## Screenshots
+### Multi-Agent Monitoring Overview
+<img width="1854" height="1045" alt="AGENTS" src="https://github.com/user-attachments/assets/0894c92d-5de5-48fa-ab22-5530e8c91354" />
+
+### Windows Endpoint Telemetry (Sysmon)
+Demonstrates Windows endpoint monitoring through Sysmon and Wazuh, including process creation events, user account activity, and host telemetry collected for detection validation.
+
+### Network Intrusion Detection (Suricata)
+Demonstrates Suricata-generated network detections, including ICMP alert generation and network traffic monitoring integrated into Wazuh.
+
